@@ -1,2 +1,0 @@
-# memtester
-memtester
